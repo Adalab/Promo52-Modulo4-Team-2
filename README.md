@@ -1,14 +1,16 @@
-Estudio de Salud Mental  
+ESTUDIO DE SALUD MENTAL 
+
 Este repositorio contiene el proyecto realizado durante el módulo de visualización con Tableau del bootcamp de Data Analyst en Adalab. El objetivo principal es analizar datos relacionados con la salud mental para identificar patrones y facilitar la interpretación de la información a través de dashboards interactivos.
 
 👥 Equipo
+
 Lucía Gómez (Scrum Master)
 
-Montserrat
+Montserrat Godia
 
-Noemí
+Noemí Barrios
 
-Aida
+Aida Bau
 
 🧠 Objetivo del proyecto
 Repasar conocimientos de EDA y transformación de datos.
@@ -28,7 +30,7 @@ GitHub para el control de versiones.
 
 Kaggle como fuente de datos.
 
-Metodología Agile, con trabajo en equipo y dailys.
+Metodología Agile, con trabajo en equipo y dailies.
 
 🗂️ Datasets utilizados
 Mental Health Dataset
