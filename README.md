@@ -28,7 +28,7 @@ GitHub para el control de versiones.
 
 Kaggle como fuente de datos.
 
-Metodología Agile, con trabajo en equipo y seguimiento iterativo mediante sprints.
+Metodología Agile, con trabajo en equipo y dailys.
 
 🗂️ Datasets utilizados
 Mental Health Dataset
