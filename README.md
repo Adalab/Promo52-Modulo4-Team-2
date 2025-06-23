@@ -1,4 +1,4 @@
-Estudio de Salud Mental
+Estudio de Salud Mental  
 Este repositorio contiene el proyecto realizado durante el módulo de visualización con Tableau del bootcamp de Data Analyst en Adalab. El objetivo principal es analizar datos relacionados con la salud mental para identificar patrones y facilitar la interpretación de la información a través de dashboards interactivos.
 
 👥 Equipo
